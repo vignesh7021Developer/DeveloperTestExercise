@@ -1,0 +1,13 @@
+C:\Users\vigne\Downloads\VinayDevWork\FileDataTest\Fakes\FileData.fakes : warning : Cannot generate stub for FileData.InvalidOptionsException: type is not visible to exported or assembly(FileData.Fakes).
+C:\Users\vigne\Downloads\VinayDevWork\FileDataTest\Fakes\FileData.fakes : warning : Cannot generate stub for FileData.InvalidNumberOfOptionsException: type is not visible to exported or assembly(FileData.Fakes).
+C:\Users\vigne\Downloads\VinayDevWork\FileDataTest\Fakes\FileData.fakes : warning : Cannot generate stub for FileData.Program: type is sealed.
+C:\Users\vigne\Downloads\VinayDevWork\FileDataTest\Fakes\FileData.fakes : warning : Cannot generate shim for FileData.CommandLineParser+<>c: type is not supported because of internal limitations.
+C:\Users\vigne\Downloads\VinayDevWork\FileDataTest\Fakes\FileData.fakes : warning : Cannot generate shim for FileData.CommandLineParser+<>c__DisplayClass5_0: type is not supported because of internal limitations.
+C:\Users\vigne\Downloads\VinayDevWork\FileDataTest\Fakes\FileData.fakes : warning : Cannot generate shim for FileData.IParser: type is an interface.
+C:\Users\vigne\Downloads\VinayDevWork\FileDataTest\Fakes\FileData.fakes : warning : Cannot generate shim for FileData.InvalidOptionsException: type is not visible to exported or assembly(FileData.Fakes).
+C:\Users\vigne\Downloads\VinayDevWork\FileDataTest\Fakes\FileData.fakes : warning : Cannot generate shim for FileData.InvalidNumberOfOptionsException: type is not visible to exported or assembly(FileData.Fakes).
+C:\Users\vigne\Downloads\VinayDevWork\FileDataTest\Fakes\FileData.fakes : warning : Cannot generate shim for FileData.FileDataRepository+<>c__DisplayClass10_0: type is not supported because of internal limitations.
+C:\Users\vigne\Downloads\VinayDevWork\FileDataTest\Fakes\FileData.fakes : warning : Cannot generate shim for FileData.FileDataUtility+<>c: type is not supported because of internal limitations.
+C:\Users\vigne\Downloads\VinayDevWork\FileDataTest\Fakes\FileData.fakes : warning : Cannot generate shim for FileData.FileDataUtility+<>c__DisplayClass18_0: type is not supported because of internal limitations.
+C:\Users\vigne\Downloads\VinayDevWork\FileDataTest\Fakes\FileData.fakes : warning : Cannot generate shim for FileData.ICommandLineUtility: type is an interface.
+C:\Users\vigne\Downloads\VinayDevWork\FileDataTest\Fakes\FileData.fakes : warning : Cannot generate shim for FileData.IRepository: type is an interface.
